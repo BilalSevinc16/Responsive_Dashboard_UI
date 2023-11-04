@@ -1,16 +1,7 @@
-# responsive_dashboard_ui
+# Responsive Dashboard UI
 
-A new Flutter project.
+Responsive Dashboard UI
 
-## Getting Started
+![1](https://github.com/BilalSevinc16/Responsive_Dashboard_UI/assets/146417248/c7459956-0bc5-4c9c-86d3-5cacae263273)
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![2](https://github.com/BilalSevinc16/Responsive_Dashboard_UI/assets/146417248/08140ff5-5d1c-42d5-beb1-40f7c3992565)
